@@ -1,0 +1,20 @@
+.content{
+	margin-left: 200px;
+}
+
+.category_chkBox{
+	margin-right: 40px;
+	float: left;
+}
+
+.category_title{
+	float: left;
+	width: 250px;
+}
+
+.category_ImgThumbnail{
+	width:85px;
+	float: left;
+	margin: 15px;
+}
+

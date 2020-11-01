@@ -1,0 +1,4 @@
+TODO List
+
+- admin_products.php-ben ne kelljen mindenhova beírni külön az "Egyéb" kategóriát
+- 
